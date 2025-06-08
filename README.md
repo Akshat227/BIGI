@@ -25,7 +25,6 @@ A humble SDL window with some pixels movin’, ideas groovin’, and *zero* prom
 
 - `C++`
 - `SDL2`
-- Vibes 💫
 
 ---
 
